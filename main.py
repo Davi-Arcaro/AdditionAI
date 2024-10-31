@@ -1,5 +1,5 @@
 #Example following the page https://keras.io/examples/nlp/addition_rnn/
-#Train a model that learns to add strings of numbers, e.g '45+61' -> '596'
+#Train a model that learns to add strings of numbers, e.g '535+61' -> '596'
 
 import keras
 from keras import layers
